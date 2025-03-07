@@ -1,19 +1,19 @@
-## DIU - Practica1, entregables
+# DIU - Practica1, entregables
 
 
-**- Desk research: Análisis Competencia**
+##**- Desk research: Análisis Competencia**
 
-Al comenzar la investigación no concíamos Jardín Alhambra y tampoco somos expertos en páginas web, aunque si hemos tenido algo de contacto con la programación de las mismas.
+Al comenzar la investigación no concíamos <ins>Jardín Alhambra</ins> y tampoco somos expertos en páginas web, aunque si hemos tenido algo de contacto con la programación de las mismas.
 
-Para comenzar el proceso de research sobre el sitio, comenzaríamos entrevistando tanto al dueño y trabajadores del local, y pasando test a los asistentes a los distintos talleres en distintos días y horarios, para tener una visión completa de las necesidades y servicios de la empresa.
+Para comenzar el proceso de research sobre el sitio, comenzaríamos <ins>entrevistando tanto al dueño y trabajadores</ins> del local, y pasando <ins>test a los asistentes</ins> a los distintos talleres en distintos días y horarios, para tener una visión completa de las necesidades y servicios de la empresa.
 
-Otro de los datos importantes sería el porcentaje de reservas que se realizan desde la web y desde otros métodos, para lo que se necesitaría un estudio, que puede ser ya existente, si la empresa dispone de estos datos, o realizarse una vez iniciado el estudio.
+También sería útil analizar el <ins>porcentaje de reservas que se realizan desde la web</ins> y desde otros métodos, para lo que se necesitaría un estudio, que puede ser ya existente, si la empresa dispone de estos datos, o realizarse una vez iniciado el estudio.
 
-Además definiríamos distintos escenarios, que cubran las tareas más comunes que se realizan en esta web. Y probaríamos a evaluarlos con distintos usuarios variados, desde algunos que nunca hayan sido clientes hasta clientes habituales,algunos ficticios y otros mediante pruebas reales. En el caso de los reales, mediríamos el tiempo que tardan en realizar la acción y mediante una encuesta, el grado de satisfacción y en el de los ficticios haríamos una estimación.
+Además definiríamos <ins>distintos escenarios</ins>, que cubran las tareas más comunes que se realizan en esta web. Y probaríamos a evaluarlos con <ins>distintos usuarios</ins> variados, desde algunos que nunca hayan sido clientes hasta clientes habituales,algunos ficticios y otros mediante pruebas reales. En el caso de los reales, mediríamos el <ins>tiempo que tardan en realizar la acción</ins> y mediante una <ins>encuest</ins>a, el <ins>grado de satisfacción</ins> y en el de los ficticios haríamos una estimación.
 
-Tras esto, crearíamos los mapas de recorrido de estos usuarios para reconocer las dificultades que se pueden encontrar por el camino y poder solucionar estos puntos débiles de la página.
+Tras esto, crearíamos los <ins>mapas de recorrido</ins> de estos usuarios para reconocer las dificultades que se pueden encontrar por el camino y poder solucionar estos puntos débiles de la página.
 
-Por último,unos días o semanas después de implementar las mejoras, volveríamos a repetir el estudio de los datos de reservas y las pruebas a los usuarios anteriores, para ver si la experiencia ha mejorado realmente.
+Por último,unos días o semanas después de implementar las mejoras, volveríamos a <ins>repetir el estudio</ins> de los datos de reservas y las pruebas a los usuarios anteriores, para ver si la experiencia ha mejorado realmente.
 
 
 
