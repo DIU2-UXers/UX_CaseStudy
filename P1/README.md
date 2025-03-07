@@ -1,7 +1,7 @@
 # DIU - Practica1, entregables
 
 
-##**- Desk research: Análisis Competencia**
+### ◉ Desk research: Análisis Competencia
 
 Al comenzar la investigación no concíamos <ins>Jardín Alhambra</ins> y tampoco somos expertos en páginas web, aunque si hemos tenido algo de contacto con la programación de las mismas.
 
