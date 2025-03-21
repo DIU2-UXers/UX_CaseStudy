@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:Germán Álvarez Gavilán  :octocat:https://github.com/gag-04
- * :bust_in_silhouette:Esther Prats Hodar :octocat:https://github.com/sthr20 
+ * :bust_in_silhouette:Germán Álvarez Gavilán  :octocat: https://github.com/gag-04
+ * :bust_in_silhouette:Esther Prats Hodar :octocat: https://github.com/sthr20 
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -66,7 +66,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
 
-![P1/Miniaturas/Amy.png](P1/Carlos.pdf)
+![P1/Miniaturas/Carlos.png](P1/Carlos.pdf)
 ----
 
 Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en varias ocasiones y este año quiere volver a probar la experiencia.
@@ -78,13 +78,13 @@ Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en vari
 Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra sus redes sociales. Ella decide mirar por su cuenta también tanto las redes sociales como la página web. Se encuentra todas las actividades agotadas y decepcionada, busca otras alternativas.
 
 
-![P1/Miniaturas/Amy.png](P1/Jouney_Map_Carlos.pdf)
+![P1/Miniaturas/Carlos.png](P1/Journey_Map_Carlos.pdf)
 ----
 Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían estado en Jardín Alhambra, por lo que decide mirar para intentar reservar para repetir este año, pero encuentra varios problemas y acaba dándose cuenta de que la web no está actualizada y busca otras opciones.
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+![Método UX](P1/Usability-review.pdf) 
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
