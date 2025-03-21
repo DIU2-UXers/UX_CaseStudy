@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU2_UXers.  Curso: 2024/25 
 
 Actualizado: xx/xx/2025
 
@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  Germán Álvarez Gavilán    :octocat:     
- * :bust_in_silhouette:  Esther Prats Hodar     :octocat:
+ * :bust_in_silhouette: https://github.com/gag-04     :octocat: Germán Álvarez Gavilán 
+ * :bust_in_silhouette: https://github.com/sthr20     :octocat: Esther Prats Hodar 
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -60,7 +60,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+![Método UX](img/Amy.pdf) 
 -----
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
