@@ -66,6 +66,12 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
 
+![P1/Miniaturas/Amy.png](P1/Carlos.pdf)
+----
+
+Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en varias ocasiones y este año quiere volver a probar la experiencia.
+
+
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
