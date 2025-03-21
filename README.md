@@ -60,7 +60,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 
 
 ### 1.c Personas
-![P1/Amy.pdf](P1/Amy.pdf)
+![P1/Miniaturas/Amy.png](P1/Amy.pdf)
 -----
 
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
