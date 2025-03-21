@@ -63,7 +63,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 ![P1/Amy.pdf](P1/Amy.pdf)
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
 
 ### 1.d User Journey Map
