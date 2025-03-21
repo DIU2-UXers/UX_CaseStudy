@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU2_UXers.  Curso: 2024/25 
 
 Actualizado: xx/xx/2025
 
@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:Germán Álvarez Gavilán  :octocat:https://github.com/gag-04
+ * :bust_in_silhouette:Esther Prats Hodar :octocat:https://github.com/sthr20 
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -37,14 +37,19 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Al comenzar la investigación no concíamos Jardín Alhambra y tampoco somos expertos en páginas web, aunque si hemos tenido algo de contacto con la programación de las mismas.
+
+Para comenzar el proceso de research sobre el sitio, comenzaríamos entrevistando tanto al dueño y trabajadores del local, y pasando test a los asistentes a los distintos talleres en distintos días y horarios, para tener una visión completa de las necesidades y servicios de la empresa.
+
+También sería útil analizar el porcentaje de reservas que se realizan desde la web y desde otros métodos, para lo que se necesitaría un estudio, que puede ser ya existente, si la empresa dispone de estos datos, o realizarse una vez iniciado el estudio.
+
+Además definiríamos distintos escenarios, que cubran las tareas más comunes que se realizan en esta web. Y probaríamos a evaluarlos con distintos usuarios variados, desde algunos que nunca hayan sido clientes hasta clientes habituales,algunos ficticios y otros mediante pruebas reales. En el caso de los reales, mediríamos el tiempo que tardan en realizar la acción y mediante una encuesta, el grado de satisfacción y en el de los ficticios haríamos una estimación.
+
+Tras esto, crearíamos los mapas de recorrido de estos usuarios para reconocer las dificultades que se pueden encontrar por el camino y poder solucionar estos puntos débiles de la página.
+
+Por último,unos días o semanas después de implementar las mejoras, volveríamos a repetir el estudio de los datos de reservas y las pruebas a los usuarios anteriores, para ver si la experiencia ha mejorado realmente.
 
 
 ### 1.b Competitive Analysis
@@ -55,10 +60,10 @@ Miembros:
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+![P1/Amy.pdf](P1/Amy.pdf)
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
 
 ### 1.d User Journey Map
