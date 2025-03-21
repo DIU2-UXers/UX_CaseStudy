@@ -60,7 +60,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 
 
 ### 1.c Personas
-![P1/Amy.pdf](https://github.com/DIU2-UXers/UX_CaseStudy/blob/master/P1/Amy.pdf)) 
+![P1/Amy.pdf](https://github.com/DIU2-UXers/UX_CaseStudy/blob/master/P1/Amy.pdf)
 -----
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
