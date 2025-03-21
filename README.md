@@ -75,13 +75,12 @@ Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en vari
 ### 1.d User Journey Map
 ![P1/Miniaturas/Amy.png](P1/Jouney_Map_Amy.pdf)
 ----
-
-
+Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra sus redes sociales. Ella decide mirar por su cuenta también tanto las redes sociales como la página web. Se encuentra todas las actividades agotadas y decepcionada, busca otras alternativas.
 
 
 ![P1/Miniaturas/Amy.png](P1/Jouney_Map_Carlos.pdf)
 ----
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían estado en Jardín Alhambra, por lo que decide mirar para intentar reservar para repetir este año, pero encuentra varios problemas y acaba dándose cuenta de que la web no está actualizada y busca otras opciones.
 
 
 ### 1.e Usability Review
