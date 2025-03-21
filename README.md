@@ -37,6 +37,8 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
+### 1.a User Reseach Plan
+
 Al comenzar la investigación no concíamos Jardín Alhambra y tampoco somos expertos en páginas web, aunque si hemos tenido algo de contacto con la programación de las mismas.
 
 Para comenzar el proceso de research sobre el sitio, comenzaríamos entrevistando tanto al dueño y trabajadores del local, y pasando test a los asistentes a los distintos talleres en distintos días y horarios, para tener una visión completa de las necesidades y servicios de la empresa.
@@ -48,13 +50,6 @@ Además definiríamos distintos escenarios, que cubran las tareas más comunes q
 Tras esto, crearíamos los mapas de recorrido de estos usuarios para reconocer las dificultades que se pueden encontrar por el camino y poder solucionar estos puntos débiles de la página.
 
 Por último,unos días o semanas después de implementar las mejoras, volveríamos a repetir el estudio de los datos de reservas y las pruebas a los usuarios anteriores, para ver si la experiencia ha mejorado realmente.
-
-
-### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
 ### 1.b Competitive Analysis
