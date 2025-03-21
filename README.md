@@ -73,9 +73,14 @@ Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en vari
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![P1/Miniaturas/Amy.png](P1/Jouney_Map_Amy.pdf)
 ----
 
+
+
+
+![P1/Miniaturas/Amy.png](P1/Jouney_Map_Carlos.pdf)
+----
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
