@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette: https://github.com/gag-04     :octocat:Germán Álvarez Gavilán 
- * :bust_in_silhouette: https://github.com/sthr20     :octocat:Esther Prats Hodar 
+ * :bust_in_silhouette: https://github.com/gag-04    Germán Álvarez Gavilán  :octocat:
+ * :bust_in_silhouette: https://github.com/sthr20    Esther Prats Hodar :octocat: 
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
