@@ -60,7 +60,7 @@ Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, amba
 
 
 ### 1.c Personas
-![P1/Miniaturas/Amy.png](P1/Amy.pdf)
+![P1/Miniaturas/Amy.png](P1/Amy.png)
 -----
 
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
