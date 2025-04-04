@@ -58,29 +58,25 @@ Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, amba
 ### 1.c Personas
 
 
-[![Metodo UX](img/Persona.png)](P1/Amy.pdf)
-#### Amy
+[![Metodo UX](img/Persona.png)](P1/Amy.pdf) **Amy**
 -----
 
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
 
-[![Metodo UX](img/Persona.png)](P1/Carlos.pdf)   
-#### Carlos
+[![Metodo UX](img/Persona.png)](P1/Carlos.pdf) **Carlos**
 ----
 
 Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en varias ocasiones y este año quiere volver a probar la experiencia.
 
 
 ### 1.d User Journey Map
-[![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Amy.pdf)   
-#### Amy
+[![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Amy.pdf) **Amy** 
 ----
 Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra sus redes sociales. Ella decide mirar por su cuenta también tanto las redes sociales como la página web. Se encuentra todas las actividades agotadas y decepcionada, busca otras alternativas.
 
 
-[![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Carlos.pdf)   
-#### Carlos
+[![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Carlos.pdf) **Carlos**   
 ----
 Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían estado en Jardín Alhambra, por lo que decide mirar para intentar reservar para repetir este año, pero encuentra varios problemas y acaba dándose cuenta de que la web no está actualizada y busca otras opciones.
 
