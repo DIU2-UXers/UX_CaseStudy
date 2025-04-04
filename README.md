@@ -57,8 +57,6 @@ Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, amba
 
 ### 1.c Personas
 
-<br>
-
 #### Amy
 [![Metodo UX](img/1b_Persona.png)](P1/Amy.pdf)
 -----
@@ -87,10 +85,17 @@ Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían es
 [![Metodo UX](img/1d_UsabilityReview.png)](P1/Usability-review.pdf) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+
+Enlace: https://www.cervezasalhambra.com/es/momentos-alhambra/jardin
+Valoración Numérica Obtenida: 7
+
+Analizando la página nos dimos cuenta de varios fallos graves: 
+ - La página está desactualizada.
+ - El menú superior pertenece a la página general de Cervezas Alhambra y si lo usas no puedes volver a esta.
+ - La información no está bien organizada, es una lista de actividades de muchos tipos y fechas.
+ - No tiene imágenes para diferenciar las distintas actividades.
+
+Tras analizarlo nuevamente, nos parece que la página debería haber tenido menos nota.
 
 <br>
 
