@@ -60,13 +60,13 @@ Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, amba
 
 
 ### 1.c Personas
-![P1/Miniaturas/Amy.png](P1/Amy.png)
+[![Metodo UX](img/1b_Persona.png)](P1/Amy.pdf)
 -----
-
+####Amy
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
-
-[![Miniatura de Carlos](P1/Miniaturas/Carlos.png)](P1/Carlos.pdf)
+####Carlos
+[![Metodo UX](img/1b_Persona.png)](P1/Carlos.pdf)
 ----
 
 Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en varias ocasiones y este año quiere volver a probar la experiencia.
