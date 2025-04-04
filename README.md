@@ -49,7 +49,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 
 
 ### 1.b Competitive Analysis
-[![Metodo UX](img/1a_Competitive.png)](P1/Competidores.pdf) 
+[![Metodo UX](img/Competitive.png)](P1/Competidores.pdf) 
 -----
 
 Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, ambas ofrecen experiencias relacionadas con sus productos, ya sean visitas guiadas por la bodega o la fábrica y distintos talleres y conciertos en sus instalaciones, además de tener posibilidad de probar allí los productos.
@@ -57,32 +57,32 @@ Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, amba
 
 ### 1.c Personas
 
-#### Amy
-[![Metodo UX](img/1b_Persona.png)](P1/Amy.pdf)
+
+[![Metodo UX](img/Persona.png)](P1/Amy.pdf)   #### Amy
 -----
 
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
-#### Carlos
-[![Metodo UX](img/1b_Persona.png)](P1/Carlos.pdf)
+
+[![Metodo UX](img/Persona.png)](P1/Carlos.pdf)   #### Carlos
 ----
 
 Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en varias ocasiones y este año quiere volver a probar la experiencia.
 
 
 ### 1.d User Journey Map
-[![Metodo UX](img/1c_JourneyMap.png)](P1/Journey_Map_Amy.pdf)
+[![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Amy.pdf)   #### Amy
 ----
 Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra sus redes sociales. Ella decide mirar por su cuenta también tanto las redes sociales como la página web. Se encuentra todas las actividades agotadas y decepcionada, busca otras alternativas.
 
 
-[![Metodo UX](img/1c_JourneyMap.png)](P1/Journey_Map_Carlos.pdf)
+[![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Carlos.pdf)   #### Carlos
 ----
 Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían estado en Jardín Alhambra, por lo que decide mirar para intentar reservar para repetir este año, pero encuentra varios problemas y acaba dándose cuenta de que la web no está actualizada y busca otras opciones.
 
 
 ### 1.e Usability Review
-[![Metodo UX](img/1d_UsabilityReview.png)](P1/Usability-review.pdf) 
+[![Metodo UX](img/UsabilityReview.png)](P1/Usability-review.pdf) 
 ----
 
 
