@@ -27,10 +27,6 @@ Miembros:
 
 ----- 
 
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
 # Proceso de Diseño 
 
 <br>
@@ -53,7 +49,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 
 
 ### 1.b Competitive Analysis
-![Método UX](P1/Competidores.pdf) 
+[![Metodo UX](img/1a_Competitive.png)](P1/Competidores.pdf) 
 -----
 
 Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, ambas ofrecen experiencias relacionadas con sus productos, ya sean visitas guiadas por la bodega o la fábrica y distintos talleres y conciertos en sus instalaciones, además de tener posibilidad de probar allí los productos.
@@ -77,18 +73,18 @@ Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en vari
 
 
 ### 1.d User Journey Map
-![P1/Miniaturas/Amy.png](P1/Jouney_Map_Amy.pdf)
+[![Metodo UX](img/1c_JourneyMap.png)](P1/Journey_Map_Amy.pdf)
 ----
 Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra sus redes sociales. Ella decide mirar por su cuenta también tanto las redes sociales como la página web. Se encuentra todas las actividades agotadas y decepcionada, busca otras alternativas.
 
 
-![P1/Miniaturas/Carlos.png](P1/Journey_Map_Carlos.pdf)
+[![Metodo UX](img/1c_JourneyMap.png)](P1/Journey_Map_Carlos.pdf)
 ----
 Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían estado en Jardín Alhambra, por lo que decide mirar para intentar reservar para repetir este año, pero encuentra varios problemas y acaba dándose cuenta de que la web no está actualizada y busca otras opciones.
 
 
 ### 1.e Usability Review
-![Método UX](P1/Usability-review.pdf) 
+[![Metodo UX](img/1d_UsabilityReview.png)](P1/Usability-review.pdf) 
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
