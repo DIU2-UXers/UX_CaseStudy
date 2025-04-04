@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU2_UXers.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 04/04/2025
 
 Proyecto: 
 
@@ -23,7 +23,7 @@ Miembros:
  * :bust_in_silhouette:Germán Álvarez Gavilán  :octocat: https://github.com/gag-04
  * :bust_in_silhouette:Esther Prats Hodar :octocat: https://github.com/sthr20 
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+
 
 ----- 
 
@@ -53,10 +53,10 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
+![Método UX](P1/Competidores.pdf) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, ambas ofrecen experiencias relacionadas con sus productos, ya sean visitas guiadas por la bodega o la fábrica y distintos talleres y conciertos en sus instalaciones, además de tener posibilidad de probar allí los productos.
 
 
 ### 1.c Personas
