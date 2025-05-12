@@ -121,7 +121,7 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 
 
 ### 2.b ScopeCanvas
-[![Método UX](img/ScopeCanvas.pdf)](P2/Scope_Canvas.pdf)
+[![Método UX](img/ScopeCanvas.png)](P2/Scope_Canvas.pdf)
 ----
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
