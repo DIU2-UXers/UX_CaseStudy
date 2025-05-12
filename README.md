@@ -17,7 +17,7 @@ Mejorar la página actual de Jardín Alhambra dotándola de mejor navegabilidad,
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+(P3/Logo_completo.png)
 
 Miembros:
  * :bust_in_silhouette:Germán Álvarez Gavilán  :octocat: https://github.com/gag-04
