@@ -17,7 +17,7 @@ Mejorar la página actual de Jardín Alhambra dotándola de mejor navegabilidad,
 
 Logotipo: 
 
-[![Logo](P3/Logo_Completo.png)]
+[![Logo](P3/Logo_completo.png)]
 
 Miembros:
  * :bust_in_silhouette:Germán Álvarez Gavilán  :octocat: https://github.com/gag-04
