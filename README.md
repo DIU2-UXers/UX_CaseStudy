@@ -106,7 +106,9 @@ Tras analizarlo nuevamente, nos parece que la página debería haber tenido meno
 [![Método UX](img/feedback-capture-grid.png)](P2/Empathy_Map.pdf)
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como la estética del local es buena y atractiva, lo que hace que haya numerosos clientes interesados en asistir. Sin embargo, hemos visto que es muy probable que los clientes decidan buscar otras opciones debido a la dificultad de la reserva, la cual es muy larga y tediosa, así como que la página no está actualizada y durante gran parte del año, es totalmente inútil.
+
+
 
 
  Interesante | Críticas     
