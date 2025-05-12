@@ -101,10 +101,9 @@ Tras analizarlo nuevamente, nos parece que la página debería haber tenido meno
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
+[![Método UX](img/feedback-capture-grid.png)](P2/Empathy_Map.pdf)
 ----
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
