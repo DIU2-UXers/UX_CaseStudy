@@ -121,7 +121,7 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
+![Método UX](img/ScopeCanvas.pdf)(P2/Scope\Canvas.pdf)
 ----
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
@@ -130,14 +130,14 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+![Método UX](img/Sitemap.png)(P2/User\Flow\Analysis)
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
+![Método UX](img/labelling.png)(P2/Sitemap.pdf)  
 ----
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
@@ -148,7 +148,7 @@ Término | Significado
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
+![Método UX](img/Wireframes.png)(P2/Wireframes)
 -----
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
