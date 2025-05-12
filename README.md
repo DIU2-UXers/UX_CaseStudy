@@ -9,11 +9,11 @@ Actualizado: 04/04/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Jardín Alhambra
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Mejorar la página actual de Jardín Alhambra dotándola de mejor navegabilidad, más claridad y actualizarla.
 
 Logotipo: 
 
