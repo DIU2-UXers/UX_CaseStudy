@@ -115,7 +115,7 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 | ------------- | -------
   Las actividades están bien planteadas | Hay poca disponibilidad
   El ambiente atrae a mucha gente | Esta gente no formaliza las reservas por las dificultad que supone hacerla
-   - | La página web no está siempre actualizada, además, no muestra si está o no actualizada hasta que no ves que está todo agotado. 
+  En la web hay varios tipos de actividades | La página web no está siempre actualizada, además, no muestra si está o no actualizada hasta que no ves que está todo agotado. 
   
 
 
