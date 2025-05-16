@@ -115,11 +115,8 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 | ------------- | -------
   Las actividades están bien planteadas | Hay poca disponibilidad
   El ambiente atrae a mucha gente | Esta gente no formaliza las reservas por las dificultad que supone hacerla
-   | La página web no está siempre actualizada, además, no muestra si está o no actualizada hasta que no ves que está todo agotado. 
+   - | La página web no está siempre actualizada, además, no muestra si está o no actualizada hasta que no ves que está todo agotado. 
   
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 
 ### 2.b ScopeCanvas
