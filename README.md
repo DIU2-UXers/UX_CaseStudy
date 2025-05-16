@@ -102,7 +102,7 @@ Tras analizarlo nuevamente, nos parece que la página debería haber tenido meno
 ## Paso 2. UX Design  
 
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 [![Método UX](img/feedback-capture-grid.png)](P2/Empathy_Map.pdf)
 ----
 
@@ -113,7 +113,9 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 
  Interesante | Críticas     
 | ------------- | -------
-  Preguntas | Nuevas ideas
+  Las actividades están bien planteadas | Hay poca disponibilidad
+  El ambiente atrae a mucha gente | Esta gente no formaliza las reservas por las dificultad que supone hacerla
+  | La página web no está siempre actualizada, además, no muestra si está o no actualizada hasta que no ves que está todo agotado. 
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
