@@ -124,8 +124,7 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 [![Método UX](img/ScopeCanvas.png)](P2/Scope_Canvas.pdf)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+En este ScopeCanvas hemos representado las necesidades de los usuarios y las acciones que pretendemos que estos realicen, además de los objetivos que nos marcamos como organización y las métricas que usaremos para medir nuestra eficacia. Todo esto con el propósito de extender la cultura granadina a la vez que promocionamos Cervezas Alhambra.
 
 
 
