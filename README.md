@@ -185,21 +185,20 @@ Hemos usado la biblioteca Material 3 Design Kit, modificando sus elementos para 
 ----
 
 <p align="center">
-  <img src="URL_IMAGEN_1" width="200"/>
-  <img src="URL_IMAGEN_2" width="200"/>
-  <img src="URL_IMAGEN_3" width="200"/>
+  <img src="P3/Mockup/Pagina_Principal.pdf" height="300"/>
+  <img src="P3/Mockup/Iniciar_Sesion.pdf" height="300"/>
+  <img src="P3/Mockup/Registrarse.pdf" height="300"/>
 </p>
 <p align="center">
-  <img src="URL_IMAGEN_4" width="200"/>
-  <img src="URL_IMAGEN_5" width="200"/>
-  <img src="URL_IMAGEN_6" width="200"/>
+  <img src="P3/Mockup/Actividad_Destacada.pdf" height="300"/>
+  <img src="P3/Mockup/Menu.pdf" height="300"/>
+  <img src="P3/Mockup/Conciertos.pdf" height="300"/>
 </p>
 <p align="center">
-  <img src="URL_IMAGEN_7" width="200"/>
-  <img src="URL_IMAGEN_8" width="200"/>
-  <img src="URL_IMAGEN_9" width="200"/>
+  <img src="P3/Mockup/Catas.pdf" height="300"/>
+  <img src="P3/Mockup/Talleres.pdf" height="300"/>
+  <img src="P3/Mockup/Visitas.pdf" height="300"/>
 </p>
-
 
 En este figma se encuentra el Mockup funcional.
 https://www.figma.com/proto/grP1uwl8xqZgZ78eSXZGq5/Sin-t%C3%ADtulo?node-id=0-1&t=a5aR4Iw1I0BSuZ8v-1
