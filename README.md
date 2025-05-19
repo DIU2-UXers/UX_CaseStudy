@@ -159,7 +159,7 @@ Término | Significado
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
-<img src="P3/Moodboard_Jardin_Alhambra.jpg" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P3/Moodboard_Jardín_Alhambra.jpg" alt="Logo" style="width: 100wv; height: auto;">
 
 
 
