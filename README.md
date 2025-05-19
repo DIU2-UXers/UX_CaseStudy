@@ -200,7 +200,7 @@ Hemos usado la biblioteca Material 3 Design Kit, modificando sus elementos para 
   <img src="P3/Mockup/Visitas.jpg" height="400"/>
 </p>
 
-En este figma se encuentra el Mockup funcional.
+En este figma se encuentra el Mockup funcional: \n
 https://www.figma.com/proto/grP1uwl8xqZgZ78eSXZGq5/Sin-t%C3%ADtulo?node-id=0-1&t=a5aR4Iw1I0BSuZ8v-1
 
 ### 3.e ¿My UX-Case Study?
