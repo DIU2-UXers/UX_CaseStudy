@@ -185,19 +185,19 @@ Hemos usado la biblioteca Material 3 Design Kit, modificando sus elementos para 
 ----
 
 <p align="center">
-  <img src="P3/Mockup/Pagina_Principal" height="300"/>
-  <img src="P3/Mockup/Iniciar_Sesion" height="300"/>
-  <img src="P3/Mockup/Registrarse" height="300"/>
+  <img src="P3/Mockup/Pagina_Principal.pdf" height="300"/>
+  <img src="P3/Mockup/Iniciar_Sesion.pdf" height="300"/>
+  <img src="P3/Mockup/Registrarse.pdf" height="300"/>
 </p>
 <p align="center">
-  <img src="P3/Mockup/Actividad_Destacada" height="300"/>
-  <img src="P3/Mockup/Menu" height="300"/>
-  <img src="P3/Mockup/Conciertos" height="300"/>
+  <img src="P3/Mockup/Actividad_Destacada.pdf" height="300"/>
+  <img src="P3/Mockup/Menu.pdf" height="300"/>
+  <img src="P3/Mockup/Conciertos.pdf" height="300"/>
 </p>
 <p align="center">
-  <img src="P3/Mockup/Catas" height="300"/>
-  <img src="P3/Mockup/Talleres" height="300"/>
-  <img src="P3/Mockup/Visitas" height="300"/>
+  <img src="P3/Mockup/Catas.pdf" height="300"/>
+  <img src="P3/Mockup/Talleres.pdf" height="300"/>
+  <img src="P3/Mockup/Visitas.pdf" height="300"/>
 </p>
 
 En este figma se encuentra el Mockup funcional.
