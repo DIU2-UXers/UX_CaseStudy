@@ -159,15 +159,15 @@ Término | Significado
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+<img src="P3/Moodboard_Jardin_Alhambra.jpg" alt="Logo" style="width: 100wv; height: auto;">
 
-(P3/Moodboard_Jardin_Alhambra.png)
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+<img src="P3/LandingPage.jpg" alt="Logo" style="width: 100wv; height: auto;">
 
 
 ### 3.c Guidelines
