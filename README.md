@@ -177,17 +177,32 @@ Término | Significado
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Hemos usado la biblioteca Material 3 Design Kit, modificando sus elementos para que fuesen de los colores de nuestra marca.
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+<p align="center">
+  <img src="URL_IMAGEN_1" width="200"/>
+  <img src="URL_IMAGEN_2" width="200"/>
+  <img src="URL_IMAGEN_3" width="200"/>
+</p>
+<p align="center">
+  <img src="URL_IMAGEN_4" width="200"/>
+  <img src="URL_IMAGEN_5" width="200"/>
+  <img src="URL_IMAGEN_6" width="200"/>
+</p>
+<p align="center">
+  <img src="URL_IMAGEN_7" width="200"/>
+  <img src="URL_IMAGEN_8" width="200"/>
+  <img src="URL_IMAGEN_9" width="200"/>
+</p>
 
+
+En este figma se encuentra el Mockup funcional.
+https://www.figma.com/proto/grP1uwl8xqZgZ78eSXZGq5/Sin-t%C3%ADtulo?node-id=0-1&t=a5aR4Iw1I0BSuZ8v-1
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
