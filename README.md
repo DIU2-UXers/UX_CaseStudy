@@ -185,19 +185,19 @@ Hemos usado la biblioteca Material 3 Design Kit, modificando sus elementos para 
 ----
 
 <p align="center">
-  <img src="P3/Mockup/Pagina_Principal.jpg" height="300"/>
-  <img src="P3/Mockup/Iniciar_Sesion.jpg" height="300"/>
-  <img src="P3/Mockup/Registrarse.jpg" height="300"/>
+  <img src="P3/Mockup/Pagina_Principal.jpg" height="400"/>
+  <img src="P3/Mockup/Iniciar_Sesion.jpg" height="400"/>
+  <img src="P3/Mockup/Registrarse.jpg" height="400"/>
 </p>
 <p align="center">
-  <img src="P3/Mockup/Actividad_Destacada.jpg" height="300"/>
-  <img src="P3/Mockup/Menu.jpg" height="300"/>
-  <img src="P3/Mockup/Conciertos.jpg" height="300"/>
+  <img src="P3/Mockup/Actividad_Destacada.jpg" height="400"/>
+  <img src="P3/Mockup/Menu.jpg" height="400"/>
+  <img src="P3/Mockup/Conciertos.jpg" height="400"/>
 </p>
 <p align="center">
-  <img src="P3/Mockup/Catas.jpg" height="300"/>
-  <img src="P3/Mockup/Talleres.jpg" height="300"/>
-  <img src="P3/Mockup/Visitas.jpg" height="300"/>
+  <img src="P3/Mockup/Catas.jpg" height="400"/>
+  <img src="P3/Mockup/Talleres.jpg" height="400"/>
+  <img src="P3/Mockup/Visitas.jpg" height="400"/>
 </p>
 
 En este figma se encuentra el Mockup funcional.
