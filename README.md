@@ -49,7 +49,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 
 
 ### 1.b Competitive Analysis
-[![Metodo UX](img/Competitive.png)](P1/Competidores.pdf) 
+![Metodo UX](P1/Competidores.pdf) 
 -----
 
 Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, ambas ofrecen experiencias relacionadas con sus productos, ya sean visitas guiadas por la bodega o la fábrica y distintos talleres y conciertos en sus instalaciones, además de tener posibilidad de probar allí los productos.
