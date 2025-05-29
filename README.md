@@ -236,9 +236,7 @@ Luisa es médico y ha visto que las actividades que ofrece Jardín Alhambra pued
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
+Las pruebas que deseamos realizar son: checklist, usability report y .....(no se cual más gag).
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
