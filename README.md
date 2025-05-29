@@ -214,17 +214,22 @@ https://www.figma.com/proto/grP1uwl8xqZgZ78eSXZGq5/Sin-t%C3%ADtulo?node-id=0-1&t
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Tenemos asignado el caso B: Tierra Nazarí => https://github.com/angelamgr/UX_CaseStudy
 
+| Usuarios |   Sexo/Edad  |  Ocupación  |  Exp.TIC   | Personalidad | Plataforma | Caso
+| ---------| ------------ | ----------- | ---------- | -----------  | ---------- | ----
+|   Jorge  |    H / 47    |  Agricultor |    Baja    | Extrovertido |    Web     |  B 
+|   María  |    M  / 23   | Estudiante  |    Alta    |    Timido    |    Web     |  B 
+|   Luisa  |    M / 35    |   Médico    |    Media   |   Emocional  |   móvil    |  A 
+|   Óscar  |    H / 18    | Estudiante  |    Media   |   Racional   |   móvil    |  A 
 
+Jorge entiende muy bien el munco de la agricultura pero la tecnología no es su fuerte. Puede encontrar algunas dificultades.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+María si que entiende sobre tecnología y va a manejarse muy bien por la web. Además disfruta de la agricultura con sus abuelos.
+
+Luisa es médico y ha visto que las actividades que ofrece Jardín Alhambra pueden ser interesantes. Decide apuntarse con sus compañeros. La web es intuitiva no tendrá mucho problema.
+
+Óscar es nuuevo en Granada. Comparte un piso de estudiantes y la experiencia de Jardín Alhambra se la recomendó uno de sus compañeros. Han decidido ir todos juntos. 
 
 
 ### 4.b Diseño de las pruebas 
