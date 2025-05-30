@@ -6,34 +6,18 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (Tierra Nazarí)
+### Tierra Nazarí
 
-### (30/5/25)
-
-
-
-
+### 30/5/25
 
 <img src="logo.png" alt="Logo" style="width: 100wv; height: auto;">
 
 [[Enlace a GITHUB del proyecto]](https://github.com/angelamgr/UX_CaseStudy)
 
 
-
-
-
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
-
-
-
-
-
+UXers, formado por Germán Álvarez Gavilán y Esther Prats Hodar. La página nos ha resultado atractiva, tiene muchas funcionalidades que están bien organizadas, por lo que no nos ha parecido difícil de usar. Hemos encontrado algunos pequeños defectos que se describen más adelante, así como muchas cosas positivas.
 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
@@ -43,21 +27,9 @@ Es una página web que permite comprar productos ecológicos de proximidad de fo
 Además de ser una plataforma de compra, Tierra Nazarí incluye una sección de talleres y un blog de productos, recetas y contenidos relacionados con un estilo de vida sostenible.
 
 
-
 ## 2 RESUMEN EJECUTIVO
 
-
-
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
-
-
-
-
-
-
+Este documento contiene los resultados de las pruebas realizadas a 2 usuarios diferentes, así como nuestras conclusiones finales, entre las que destacan algunas cosas positivas, como la enorme funciónalidad de la página exaluada, y otras negativas como la falta de botones para volver al inicio.
 
 
 ## 3 METODOLOGIA 
