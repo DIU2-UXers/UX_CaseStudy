@@ -6,9 +6,9 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (Tierra Nazarí)
 
-### (Fecha)
+### (30/5/25)
 
 
 
@@ -70,7 +70,12 @@ y Resumen conciso de problemas detectados ]
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+| Usuarios |   Sexo/Edad  |  Ocupación  |  Exp.TIC   | Personalidad | Plataforma | Caso
+| ---------| ------------ | ----------- | ---------- | -----------  | ---------- | ----
+|   Jorge  |    H / 47    |  Agricultor |    Baja    | Extrovertido |    Web     |  B 
+|   María  |    M  / 23   | Estudiante  |    Alta    |    Timido    |    Web     |  B 
+|   Luisa  |    M / 35    |   Médico    |    Media   |   Emocional  |   móvil    |  A 
+|   Óscar  |    H / 18    | Estudiante  |    Media   |   Racional   |   móvil    |  A 
 
 
 
@@ -78,9 +83,7 @@ y Resumen conciso de problemas detectados ]
 
 #### Resultados obtenidos
 
-
-
-(resultado de SUS)
+En el SUS hemos obtenido una media de 76,25 entre ambos usuarios, lo que supone un Aceptable Tipo C
 
 
 
