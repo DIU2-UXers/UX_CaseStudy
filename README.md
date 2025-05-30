@@ -256,7 +256,7 @@ Luisa es médico y ha visto que las actividades que ofrece Jardín Alhambra pued
 ![Método UX](img/usability-testing.png) 
 -----
 
-Las pruebas que deseamos realizar son: checklist, usability report y .....(no se cual más gag).
+Las pruebas que deseamos realizar son: checklist, usability report y 5" test.
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
