@@ -14,7 +14,7 @@
 
 
 
-<img src="P4/logo.png" alt="Logo" style="width: 100wv; height: auto;">
+<img src="logo.png" alt="Logo" style="width: 100wv; height: auto;">
 
 [[Enlace a GITHUB del proyecto]](https://github.com/angelamgr/UX_CaseStudy)
 
