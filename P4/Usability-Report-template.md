@@ -14,9 +14,9 @@
 
 
 
-[img Proyecto]
+<img src="P4/logo.png" alt="Logo" style="width: 100wv; height: auto;">
 
-[Enlace a GITHUB del proyecto]
+[[Enlace a GITHUB del proyecto]](https://github.com/angelamgr/UX_CaseStudy)
 
 
 
