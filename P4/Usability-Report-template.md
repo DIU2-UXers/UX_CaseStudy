@@ -74,8 +74,7 @@ y Resumen conciso de problemas detectados ]
 | ---------| ------------ | ----------- | ---------- | -----------  | ---------- | ----
 |   Jorge  |    H / 47    |  Agricultor |    Baja    | Extrovertido |    Web     |  B 
 |   María  |    M  / 23   | Estudiante  |    Alta    |    Timido    |    Web     |  B 
-|   Luisa  |    M / 35    |   Médico    |    Media   |   Emocional  |   móvil    |  A 
-|   Óscar  |    H / 18    | Estudiante  |    Media   |   Racional   |   móvil    |  A 
+
 
 
 
