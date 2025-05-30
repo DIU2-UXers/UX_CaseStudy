@@ -52,6 +52,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 [![Metodo UX](img/1a_Competitive.png)](P1/Competidores.pdf) 
 -----
 <img src="P1/Competidores.pdf" alt="Logo" style="width: 100wv; height: auto;">
+
 Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, ambas ofrecen experiencias relacionadas con sus productos, ya sean visitas guiadas por la bodega o la fábrica y distintos talleres y conciertos en sus instalaciones, además de tener posibilidad de probar allí los productos.
 
 
@@ -61,11 +62,15 @@ Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, amba
 [![Metodo UX](img/Persona.png)](P1/Amy.pdf) **Amy**
 -----
 
+<img src="P1/Amy.pdf" alt="Logo" style="width: 100wv; height: auto;">
+
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
 
 [![Metodo UX](img/Persona.png)](P1/Carlos.pdf) **Carlos**
 ----
+
+<img src="P1/Carlos.pdf" alt="Logo" style="width: 100wv; height: auto;">
 
 Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en varias ocasiones y este año quiere volver a probar la experiencia.
 
@@ -73,11 +78,17 @@ Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en vari
 ### 1.d User Journey Map
 [![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Amy.pdf) **Amy** 
 ----
+
+<img src="P1/Journey_Map_Amy.pdf" alt="Logo" style="width: 100wv; height: auto;">
+
 Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra sus redes sociales. Ella decide mirar por su cuenta también tanto las redes sociales como la página web. Se encuentra todas las actividades agotadas y decepcionada, busca otras alternativas.
 
 
 [![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Carlos.pdf) **Carlos**   
 ----
+
+<img src="P1/Journey_Map_Carlos.pdf" alt="Logo" style="width: 100wv; height: auto;">
+
 Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían estado en Jardín Alhambra, por lo que decide mirar para intentar reservar para repetir este año, pero encuentra varios problemas y acaba dándose cuenta de que la web no está actualizada y busca otras opciones.
 
 
@@ -85,6 +96,7 @@ Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían es
 [![Metodo UX](img/usabilityReview.png)](P1/Usability-review.pdf) 
 ----
 
+<img src="P1/Usability-review.pdf" alt="Logo" style="width: 100wv; height: auto;">
 
 Enlace: https://www.cervezasalhambra.com/es/momentos-alhambra/jardin
 Valoración Numérica Obtenida: 7
@@ -105,6 +117,8 @@ Tras analizarlo nuevamente, nos parece que la página debería haber tenido meno
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 [![Método UX](img/feedback-capture-grid.png)](P2/Empathy_Map.pdf)
 ----
+<img src="P2/Empathy_Map.pdf" alt="Logo" style="width: 100wv; height: auto;">
+
 
 Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como la estética del local es buena y atractiva, lo que hace que haya numerosos clientes interesados en asistir. Sin embargo, hemos visto que es muy probable que los clientes decidan buscar otras opciones debido a la dificultad de la reserva, la cual es muy larga y tediosa, así como que la página no está actualizada y durante gran parte del año, es totalmente inútil.
 
@@ -123,6 +137,9 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 [![Método UX](img/ScopeCanvas.png)](P2/Scope_Canvas.pdf)
 ----
 
+<img src="P2/Empathy_Map.pdf" alt="Logo" style="width: 100wv; height: auto;">
+
+
 En este ScopeCanvas hemos representado las necesidades de los usuarios y las acciones que pretendemos que estos realicen, además de los objetivos que nos marcamos como organización y las métricas que usaremos para medir nuestra eficacia. Todo esto con el propósito de extender la cultura granadina a la vez que promocionamos Cervezas Alhambra.
 
 
@@ -131,12 +148,15 @@ En este ScopeCanvas hemos representado las necesidades de los usuarios y las acc
 [![Método UX](img/Sitemap.png)](P2/User_Flow_Analysis)
 -----
 
+
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
 ### 2.c IA: Sitemap + Labelling 
 [![Método UX](img/labelling.png)](P2/Sitemap.pdf)  
 ----
+
+<img src="P2/Sitemap.pdf" alt="Logo" style="width: 100wv; height: auto;">
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
@@ -229,14 +249,14 @@ María si que entiende sobre tecnología y va a manejarse muy bien por la web. A
 
 Luisa es médico y ha visto que las actividades que ofrece Jardín Alhambra pueden ser interesantes. Decide apuntarse con sus compañeros. La web es intuitiva no tendrá mucho problema.
 
-Óscar es nuuevo en Granada. Comparte un piso de estudiantes y la experiencia de Jardín Alhambra se la recomendó uno de sus compañeros. Han decidido ir todos juntos. 
+Óscar es nuevo en Granada. Comparte un piso de estudiantes y la experiencia de Jardín Alhambra se la recomendó uno de sus compañeros. Han decidido ir todos juntos. 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
-Las pruebas que deseamos realizar son: checklist, usability report y .....(no se cual más gag).
+Las pruebas que deseamos realizar son: checklist, usability review y 5" test.
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 

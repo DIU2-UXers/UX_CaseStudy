@@ -6,17 +6,17 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (Tierra Nazarí)
 
-### (Fecha)
-
-
+### (30/5/25)
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+<img src="P4/logo.png" alt="Logo" style="width: 100wv; height: auto;">
+
+[[Enlace a GITHUB del proyecto]](https://github.com/angelamgr/UX_CaseStudy)
 
 
 
@@ -38,9 +38,9 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+Es una página web que permite comprar productos ecológicos de proximidad de forma rápida, personalizada y sencilla. Tierra Nazarí está diseñada tanto para consumidores como para agricultores, ya que a través de la sección "Trabaja con nosotros", los productores granadinos pueden dar a conocer y ofrecer sus productos directamente.
 
- 
+Además de ser una plataforma de compra, Tierra Nazarí incluye una sección de talleres y un blog de productos, recetas y contenidos relacionados con un estilo de vida sostenible.
 
 
 
@@ -70,7 +70,11 @@ y Resumen conciso de problemas detectados ]
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+| Usuarios |   Sexo/Edad  |  Ocupación  |  Exp.TIC   | Personalidad | Plataforma | Caso
+| ---------| ------------ | ----------- | ---------- | -----------  | ---------- | ----
+|   Jorge  |    H / 47    |  Agricultor |    Baja    | Extrovertido |    Web     |  B 
+|   María  |    M  / 23   | Estudiante  |    Alta    |    Timido    |    Web     |  B 
+
 
 
 
@@ -78,9 +82,7 @@ y Resumen conciso de problemas detectados ]
 
 #### Resultados obtenidos
 
-
-
-(resultado de SUS)
+En el SUS hemos obtenido una media de 76,25 entre ambos usuarios, lo que supone un Aceptable Tipo C
 
 
 
