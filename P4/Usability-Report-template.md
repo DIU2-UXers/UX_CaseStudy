@@ -38,9 +38,9 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+Es una página web que permite comprar productos ecológicos de proximidad de forma rápida, personalizada y sencilla. Tierra Nazarí está diseñada tanto para consumidores como para agricultores, ya que a través de la sección "Trabaja con nosotros", los productores granadinos pueden dar a conocer y ofrecer sus productos directamente.
 
- 
+Además de ser una plataforma de compra, Tierra Nazarí incluye una sección de talleres y un blog de productos, recetas y contenidos relacionados con un estilo de vida sostenible.
 
 
 
