@@ -276,7 +276,7 @@ El objetivo de la prueba de usabilidad es reservar una visita
 
 Los resultados obtenidos en el Cuestionario SUS se pueden observar en la siguiente imágen:
 
-<img src="P4/cuestionarioSUS.jpg" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P4/cuestionarioSUS.jpeg" alt="Logo" style="width: 100wv; height: auto;">
 
 En el siguiente apartado se hará un análisis de los resultados obtenidos
 
