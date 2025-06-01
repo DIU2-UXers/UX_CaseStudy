@@ -258,11 +258,22 @@ Fernando conoce el mundo de la tecnología. A veces le cuesta un poco más pero 
 ![Método UX](img/usability-testing.png) 
 -----
 
-Las pruebas que deseamos realizar son: checklist, usability review y 5" test.
+Para las pruebas hemos diseñado dos test en Maze, uno para cada app. Cada test contiene una prueba de 5 segundos sobre el landing page, sobre el que se deberán responder varias preguntas simples. Ademas, se realizará una prueba de usabilidad, en la que el usuario tendrá que conseguir un objetivo, el cuál es distinto para cada app y se detalla en el siguiente punto. Por último, cada usuario debe responder el Cuestionario SUS, con el cuál evaluaremos la usabilidad de cada uno de manera cuantitativa.
+
+# Caso A: Jardín Alhambra
+https://t.maze.co/394644698
+El objetivo de la prueba de usabilidad es reservar una visita
+
+# Caso B: Tierra Nazarí
+https://t.maze.co/394655645
+El objetivo de la prueba de usabilidad es reservar una visita
+
+
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+
 
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
