@@ -117,7 +117,7 @@ Tras analizarlo nuevamente, nos parece que la página debería haber tenido meno
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 [![Método UX](img/feedback-capture-grid.png)](P2/Empathy_Map.pdf)
 ----
-<img src="P2/Empathy_Map.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P2/Empathy_Map.png" alt="Logo" style="width: 100wv; height: auto;">
 
 
 Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como la estética del local es buena y atractiva, lo que hace que haya numerosos clientes interesados en asistir. Sin embargo, hemos visto que es muy probable que los clientes decidan buscar otras opciones debido a la dificultad de la reserva, la cual es muy larga y tediosa, así como que la página no está actualizada y durante gran parte del año, es totalmente inútil.
@@ -137,7 +137,7 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 [![Método UX](img/ScopeCanvas.png)](P2/Scope_Canvas.pdf)
 ----
 
-<img src="P2/Empathy_Map.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P2/Empathy_Map.png" alt="Logo" style="width: 100wv; height: auto;">
 
 
 En este ScopeCanvas hemos representado las necesidades de los usuarios y las acciones que pretendemos que estos realicen, además de los objetivos que nos marcamos como organización y las métricas que usaremos para medir nuestra eficacia. Todo esto con el propósito de extender la cultura granadina a la vez que promocionamos Cervezas Alhambra.
