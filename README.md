@@ -238,18 +238,20 @@ Tenemos asignado el caso B: Tierra Nazarí => https://github.com/angelamgr/UX_Ca
 
 | Usuarios |   Sexo/Edad  |  Ocupación  |  Exp.TIC   | Personalidad | Plataforma | Caso
 | ---------| ------------ | ----------- | ---------- | -----------  | ---------- | ----
+|   Marta  |    M / 19    |   Estudiante   |    Media   |   Emocional  |   móvil    |  A 
+|   Jesús  |    H / 17    | Estudiante  |    Media   |   Introvertido   |   móvil    |  A 
 |   Ángel  |    H / 24    |  Estudiante |    Alta    | Extrovertido |    Web     |  B 
 | Fernando |    H / 58    |   Jubilado  |    Media   |   Racional   |    Web     |  B 
-|   Luisa  |    M / 35    |   Médico    |    Media   |   Emocional  |   móvil    |  A 
-|   Óscar  |    H / 18    | Estudiante  |    Media   |   Racional   |   móvil    |  A 
+
+Marta es una estudiante de Anatomía Patologica, le encantan salir con sus amigos y hacer planes con ellos.
+
+Jesús es un estudiante de Segundo de Bachillerato, le atrae mucho la música, aunque es un poco introvertido, queda mucho con su grupo de amigos.
 
 Ángel forma parte del sector informático. Se lleva muy bien con la tecnología pero no conoce el mundo de la agricultura.
 
 Fernando conoce el mundo de la tecnología. A veces le cuesta un poco más pero casi siempre lo lleva bien. Entiende algo del tema de agricultura.
 
-Luisa es médico y ha visto que las actividades que ofrece Jardín Alhambra pueden ser interesantes. Decide apuntarse con sus compañeros. La web es intuitiva no tendrá mucho problema.
 
-Óscar es nuevo en Granada. Comparte un piso de estudiantes y la experiencia de Jardín Alhambra se la recomendó uno de sus compañeros. Han decidido ir todos juntos. 
 
 
 ### 4.b Diseño de las pruebas 
@@ -299,31 +301,3 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 <br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
-
-
-
