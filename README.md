@@ -261,11 +261,11 @@ Fernando conoce el mundo de la tecnología. A veces le cuesta un poco más pero 
 Para las pruebas hemos diseñado dos test en Maze, uno para cada app. Cada test contiene una prueba de 5 segundos sobre el landing page, sobre el que se deberán responder varias preguntas simples. Ademas, se realizará una prueba de usabilidad, en la que el usuario tendrá que conseguir un objetivo, el cuál es distinto para cada app y se detalla en el siguiente punto. Por último, cada usuario debe responder el Cuestionario SUS, con el cuál evaluaremos la usabilidad de cada uno de manera cuantitativa.
 
 # Caso A: Jardín Alhambra
-https://t.maze.co/394644698
+https://t.maze.co/394644698 <br>
 El objetivo de la prueba de usabilidad es reservar una visita
 
 # Caso B: Tierra Nazarí
-https://t.maze.co/394655645
+https://t.maze.co/394655645 <br>
 El objetivo de la prueba de usabilidad es reservar una visita
 
 
