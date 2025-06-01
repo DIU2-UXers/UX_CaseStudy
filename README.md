@@ -137,7 +137,7 @@ Tras hacer el Empathy Map destacamos que por un lado, tanto las actividades como
 [![Método UX](img/ScopeCanvas.png)](P2/Scope_Canvas.pdf)
 ----
 
-<img src="P2/Empathy_Map.png" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P2/Scope_Canvas.png" alt="Logo" style="width: 100wv; height: auto;">
 
 
 En este ScopeCanvas hemos representado las necesidades de los usuarios y las acciones que pretendemos que estos realicen, además de los objetivos que nos marcamos como organización y las métricas que usaremos para medir nuestra eficacia. Todo esto con el propósito de extender la cultura granadina a la vez que promocionamos Cervezas Alhambra.
@@ -147,7 +147,7 @@ En este ScopeCanvas hemos representado las necesidades de los usuarios y las acc
 ### 2.b User Flow (task) analysis 
 [![Método UX](img/Sitemap.png)](P2/User_Flow_Analysis)
 -----
-
+Para acceder al User Flow Analysis, pulsa [aquí](P2/User_Flow_Analysis).
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
@@ -156,7 +156,7 @@ En este ScopeCanvas hemos representado las necesidades de los usuarios y las acc
 [![Método UX](img/labelling.png)](P2/Sitemap.pdf)  
 ----
 
-<img src="P2/Sitemap.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P2/Sitemap.png" alt="Logo" style="width: 100wv; height: auto;">
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
@@ -169,7 +169,7 @@ Término | Significado
 [![Método UX](img/Wireframes.png)](P2/Wireframes)
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Tanto los bocetos como el wireframe final se encuentran en la siguiente [carpeta](P2/Wireframes)
 
 <br>
 
