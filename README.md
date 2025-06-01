@@ -51,7 +51,7 @@ Por último,unos días o semanas después de implementar las mejoras, volveríam
 ### 1.b Competitive Analysis
 [![Metodo UX](img/1a_Competitive.png)](P1/Competidores.pdf) 
 -----
-<img src="P1/Competidores.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P1/Competidores.png" alt="Logo" style="width: 100wv; height: auto;">
 
 Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, ambas ofrecen experiencias relacionadas con sus productos, ya sean visitas guiadas por la bodega o la fábrica y distintos talleres y conciertos en sus instalaciones, además de tener posibilidad de probar allí los productos.
 
@@ -62,7 +62,7 @@ Hemos elegido como competidores a Factoría Cruzcampo y Bodegas Montecillo, amba
 [![Metodo UX](img/Persona.png)](P1/Amy.pdf) **Amy**
 -----
 
-<img src="P1/Amy.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P1/Amy.png" alt="Logo" style="width: 100wv; height: auto;">
 
 Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada para trabajar y pretende ir a Jardín Alhambra para aumentar su portfolio y aprender sobre la cultura granadina.
 
@@ -70,7 +70,7 @@ Amy es una mujer fotógrafa profesional de Australia que ha venido a Granada par
 [![Metodo UX](img/Persona.png)](P1/Carlos.pdf) **Carlos**
 ----
 
-<img src="P1/Carlos.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P1/Carlos.png" alt="Logo" style="width: 100wv; height: auto;">
 
 Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en varias ocasiones y este año quiere volver a probar la experiencia.
 
@@ -79,7 +79,7 @@ Carlos es un policia granadino que fue el año pasado a Jardín Alhambra en vari
 [![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Amy.pdf) **Amy** 
 ----
 
-<img src="P1/Journey_Map_Amy.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P1/Journey_Map_Amy.png" alt="Logo" style="width: 100wv; height: auto;">
 
 Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra sus redes sociales. Ella decide mirar por su cuenta también tanto las redes sociales como la página web. Se encuentra todas las actividades agotadas y decepcionada, busca otras alternativas.
 
@@ -87,7 +87,7 @@ Un artista granadino le recomienda a Amy asistir a Jardín Alhambra y le muestra
 [![Metodo UX](img/JourneyMap.png)](P1/Journey_Map_Carlos.pdf) **Carlos**   
 ----
 
-<img src="P1/Journey_Map_Carlos.pdf" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P1/Journey_Map_Carlos.png" alt="Logo" style="width: 100wv; height: auto;">
 
 Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían estado en Jardín Alhambra, por lo que decide mirar para intentar reservar para repetir este año, pero encuentra varios problemas y acaba dándose cuenta de que la web no está actualizada y busca otras opciones.
 
@@ -96,7 +96,7 @@ Se acerca Abril y Carlos recuerda con sus amigos que el año anterior habían es
 [![Metodo UX](img/usabilityReview.png)](P1/Usability-review.pdf) 
 ----
 
-<img src="P1/Usability-review.pdf" alt="Logo" style="width: 100wv; height: auto;">
+Para ver el Usability Review, puedes pulsar [aquí](P1/Usability-review.pdf)
 
 Enlace: https://www.cervezasalhambra.com/es/momentos-alhambra/jardin
 Valoración Numérica Obtenida: 7
