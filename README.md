@@ -238,14 +238,14 @@ Tenemos asignado el caso B: Tierra Nazarí => https://github.com/angelamgr/UX_Ca
 
 | Usuarios |   Sexo/Edad  |  Ocupación  |  Exp.TIC   | Personalidad | Plataforma | Caso
 | ---------| ------------ | ----------- | ---------- | -----------  | ---------- | ----
-|   Jorge  |    H / 47    |  Agricultor |    Baja    | Extrovertido |    Web     |  B 
-|   María  |    M  / 23   | Estudiante  |    Alta    |    Timido    |    Web     |  B 
+|   Ángel  |    H / 24    |  Estudiante |    Alta    | Extrovertido |    Web     |  B 
+| Fernando |    H / 58    |   Jubilado  |    Media   |   Racional   |    Web     |  B 
 |   Luisa  |    M / 35    |   Médico    |    Media   |   Emocional  |   móvil    |  A 
 |   Óscar  |    H / 18    | Estudiante  |    Media   |   Racional   |   móvil    |  A 
 
-Jorge entiende muy bien el munco de la agricultura pero la tecnología no es su fuerte. Puede encontrar algunas dificultades.
+Ángel forma parte del sector informático. Se lleva muy bien con la tecnología pero no conoce el mundo de la agricultura.
 
-María si que entiende sobre tecnología y va a manejarse muy bien por la web. Además disfruta de la agricultura con sus abuelos.
+Fernando conoce el mundo de la tecnología. A veces le cuesta un poco más pero casi siempre lo lleva bien. Entiende algo del tema de agricultura.
 
 Luisa es médico y ha visto que las actividades que ofrece Jardín Alhambra pueden ser interesantes. Decide apuntarse con sus compañeros. La web es intuitiva no tendrá mucho problema.
 
