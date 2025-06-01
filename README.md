@@ -276,7 +276,7 @@ El objetivo de la prueba de usabilidad es reservar una visita
 
 Los resultados obtenidos en el Cuestionario SUS se pueden observar en la siguiente imágen:
 
-<img src="P4/cuestionarioSUS.jpeg" alt="Logo" style="width: 100wv; height: auto;">
+<img src="P4/cuestionarioSUS.png" alt="Logo" style="width: 100wv; height: auto;">
 
 En el siguiente apartado se hará un análisis de los resultados obtenidos
 
@@ -286,6 +286,9 @@ En el siguiente apartado se hará un análisis de los resultados obtenidos
 -----
 
 Para ver los resultados de las pruebas, accede al siguiente [enlace](P4/resultados)
+
+
+Como se ve en el apartado anterior, Tanto el caso A como el B tienen una usabilidad media de tipo B, aunque el caso A es ligeramente más usable, siendo la media de este de 83,75 pts, sobre los 80 del caso B. Esto muestra que ambos diseños son buenos, a pesar de que hay cosas que pulir, como se verán en el último apartado.
 
 
 
