@@ -313,7 +313,7 @@ Visita este enlace para realizar el experimento EyeTracking sobre el Case Study 
 ![Método UX](img/usability-report.png) 
 -----
 
-(P4/Usability-Report-template.md)
+El usability repost se encuentra en el siguiente [enlace](P4/Usability-Report-template.md)
 
 La tarea nos ha parecido bastante productiva ya que nos ha enseñado a ver como podemos comprobar si realmente el diseño que hemos planteado es correcto de una manera objetiva. 
 
