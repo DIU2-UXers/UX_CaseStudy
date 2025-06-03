@@ -59,6 +59,14 @@ En el SUS hemos obtenido una media de 85 entre ambos usuarios, lo que supone un 
 
 
 EyeTracking:
+https://app.gazerecorder.com/Study/Test?StudyID=72abc523964afcf3e5d5c9c8fdef4fa0&lang=en&RespondentID=null <br>
+Visita este enlace para realizar el experimento EyeTracking sobre el Case Study Tierra Nazarí.
+
+<img src="P4/Imagen1.jpeg" style="width: 100wv; height: auto;">
+<img src="P4/Imagen2.jpeg" style="width: 100wv; height: auto;">
+<img src="P4/Imagen3.jpeg" style="width: 100wv; height: auto;">
+<img src="P4/Imagen4.jpeg" style="width: 100wv; height: auto;">
+
 
 
 
