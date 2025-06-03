@@ -149,16 +149,12 @@ En este ScopeCanvas hemos representado las necesidades de los usuarios y las acc
 -----
 Para acceder al User Flow Analysis, pulsa [aquí](P2/User_Flow_Analysis).
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
 
 ### 2.c IA: Sitemap + Labelling 
 [![Método UX](img/labelling.png)](P2/Sitemap.pdf)  
 ----
 
 <img src="P2/Sitemap.png" alt="Logo" style="width: 100wv; height: auto;">
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 Término | Significado     
 | ------------- | -------
@@ -223,8 +219,7 @@ https://www.figma.com/proto/grP1uwl8xqZgZ78eSXZGq5/Sin-t%C3%ADtulo?node-id=0-1&t
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Nuestro Case Study publicado.
 
 <br>
 
@@ -296,13 +291,9 @@ Como se ve en el apartado anterior, Tanto el caso A como el B tienen una usabili
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+#### EyeTracking: Tierra Nazarí
+https://app.gazerecorder.com/Study/Test?StudyID=72abc523964afcf3e5d5c9c8fdef4fa0&lang=en&RespondentID=null <br>
+Visita este enlaze para realizar el experimento EyeTracking sobre el Case Study Tierra Nazarí.
 
 
 ### 4.f Usability Report de B
