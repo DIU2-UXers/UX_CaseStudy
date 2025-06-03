@@ -302,6 +302,12 @@ Como se ve en el apartado anterior, Tanto el caso A como el B tienen una usabili
 https://app.gazerecorder.com/Study/Test?StudyID=72abc523964afcf3e5d5c9c8fdef4fa0&lang=en&RespondentID=null <br>
 Visita este enlaze para realizar el experimento EyeTracking sobre el Case Study Tierra Nazarí.
 
+<img src="P4/Imagen1.jpeg" style="width: 100wv; height: auto;">
+<img src="P4/Imagen2.jpeg" style="width: 100wv; height: auto;">
+<img src="P4/Imagen3.jpeg" style="width: 100wv; height: auto;">
+<img src="P4/Imagen4.jpeg" style="width: 100wv; height: auto;">
+
+
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
