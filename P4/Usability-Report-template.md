@@ -44,8 +44,8 @@ Este documento contiene los resultados de las pruebas realizadas a 2 usuarios di
 
 | Usuarios |   Sexo/Edad  |  Ocupación  |  Exp.TIC   | Personalidad | Plataforma | Caso
 | ---------| ------------ | ----------- | ---------- | -----------  | ---------- | ----
-|   Jorge  |    H / 47    |  Agricultor |    Baja    | Extrovertido |    Web     |  B 
-|   María  |    M  / 23   | Estudiante  |    Alta    |    Timido    |    Web     |  B 
+|   Ángel  |    H / 24    |  Estudiante |    Alta    | Extrovertido |    Web     |  B 
+|   Fernando  |    M  / 58   | Jubilado  |    Media    |    Racional    |    Web     |  B 
 
 
 
@@ -54,50 +54,33 @@ Este documento contiene los resultados de las pruebas realizadas a 2 usuarios di
 
 #### Resultados obtenidos
 
-En el SUS hemos obtenido una media de 76,25 entre ambos usuarios, lo que supone un Aceptable Tipo C
+En el SUS hemos obtenido una media de 85 entre ambos usuarios, lo que supone un Excelente Tipo B
 
 
 
-(resultado de eyetracking)
-
-
-
-
-
+EyeTracking:
 
 
 
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
-
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+Hemos notado que hay demasiada navegabilidad y puede abrumar al usuario. 
+También algunos errores como que al salir de la página inicial es imposible volver a ella. 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
-
+En general la página está bien diseñada. Consideramos que han hecho una buena eleccion de colores y que se han representado todas las funcionalidades necesarias. De un vistazo de dabe a grandes rasgos de que trata la página.
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
-
+Mejorar la navegabilidad para el usuario. Hay demasiadas páginas y la navegabilidad se hace larga.
+Revisar que siempre se pueda volver al inicio desde cualquier página.
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Maze nos ha ayudado a ver realmente la experiencia de los usuarios al probar la página, y nos ha hecho darnos cuenta de que hay demasiada navegabilidad.
+El eyetracking nos ha dejado claro que la página se entiende perfectamente y que lo que realmente es importante destaca correctamente sobre lo que no tiene tanta importancia.
