@@ -313,10 +313,9 @@ Visita este enlace para realizar el experimento EyeTracking sobre el Case Study 
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+(P4/Usability-Report-template.md)
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+La tarea nos ha parecido bastante productiva ya que nos ha enseñado a ver como podemos comprobar si realmente el diseño que hemos planteado es correcto de una manera objetiva. 
 
 
 
