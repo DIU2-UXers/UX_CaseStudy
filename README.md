@@ -158,7 +158,14 @@ Para acceder al User Flow Analysis, pulsa [aquí](P2/User_Flow_Analysis).
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Ciudades  | Acceso a la página que tiene la infromación de las actividades para todas las ciudades
+  Histórico  | Recuerdos de actividades en anteriores años
+  Sobre nosotros | Informaciín de Jardín Alhambra, preguntas frecuentes y contacto
+  Cervezas Alhambra | Página principal de las cervezas 
+  Todas las actividades | Descripción de todas las actividades según el filtro escogido
+  Actividades destacadas | Recomendaciones de las actividades más interesantes
+  Reservar | Realizar la reserva de una actividad
+  Área personal | Acceso a tus datos personales, compras, actividades a las que vas a asitir y a las que has asistido
 
 
 ### 2.d Wireframes
